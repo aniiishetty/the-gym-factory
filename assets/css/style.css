@@ -1,3 +1,5 @@
+
+
 :root {
 
   /**
@@ -13,7 +15,7 @@
   --sonic-silver: hsl(0, 0%, 47%);
   --cadet-gray: hsl(214, 15%, 62%);
   --light-gray: hsl(0, 0%, 80%);
-  --coquelicot: hsl(12, 98%, 52%);
+  --coquelicot: hsl(198, 90%, 19%);
   --gainsboro: hsl(0, 0%, 88%);
   --white_20: hsl(0, 0%, 100%, 0.2);
   --white_10: hsl(0, 0%, 100%, 0.1);
@@ -126,7 +128,7 @@ html {
 }
 
 body {
-  background: linear-gradient(red,blue,rgb(235, 33, 242),yellow);
+  background: linear-gradient(rgb(151, 182, 188),rgb(142, 192, 182),rgb(59, 122, 161),rgb(111, 122, 124));
   color: var(--sonic-silver);
   font-size: 1.6rem;
   line-height: 1.6;
